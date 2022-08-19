@@ -24,6 +24,7 @@
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.1",
     "@vitest/coverage-c8": "^0.22.0",
+    "axios-mock-adapter": "^1.21.2",
     "jest-mock-axios": "^4.6.1",
     "jsdom": "^20.0.0",
     "typescript": "^4.6.4",

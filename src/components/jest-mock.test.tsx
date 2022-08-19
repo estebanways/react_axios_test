@@ -1,6 +1,7 @@
 // If the jest-mock-axios helper library to mock 
 // Axios is working, this test will fail. To pass
 // it rename __mocks__ as RENAMED__mocks__
+// but do not update tsconfig.json
 
 import axios from "axios";
 import { vi } from "vitest";
